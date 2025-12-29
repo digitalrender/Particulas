@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Midnight Pulse Visualizer",
+  "description": "An interactive 3D particle system that reacts to audio input, optimized for synth-pop vibes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
